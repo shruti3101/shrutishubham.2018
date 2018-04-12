@@ -39,8 +39,8 @@ h2 {
   margin-top: 0;
   color: #B32C50;
 }
-h2 {
-  font-size: 30px;
+h3 {
+  font-size: 18px;
   margin-top: 0;
 }
 h4 {
@@ -79,7 +79,7 @@ h4 {
 ------------------------------------*/
 header,
 footer {
-  background: darkgray;
+  background: #ECF0F1;
   /* color: #0F3057; */
 }
 header h1,
