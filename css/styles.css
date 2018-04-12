@@ -1,0 +1,118 @@
+
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+}
+a {
+    color: black;
+    border: 1px solid gray;
+
+}
+a:hover {
+  /* background-color: white; */
+  color: #B32C50;
+
+}
+h1{
+  font-family: 'Roboto', bold;
+  font-weight: 100;
+}
+
+h1 {
+  font-size: 75px;
+}
+
+h2,h3,h4 {
+  font-family: 'Roboto', cursive;
+  font-weight: 400;
+}
+
+h2 {
+  font-size: 30px;
+  margin-top: 0;
+  color: #B32C50;
+}
+h2 {
+  font-size: 30px;
+  margin-top: 0;
+}
+h4 {
+  font-size: 15px;
+  margin-top: 0;
+}
+.content-wrap {
+  max-width: 950px;
+  margin: 0 auto;
+  padding: 10px;
+  overflow: hidden;
+}
+
+.column-narrow {
+  width: 35%;
+  float: left;
+  padding-right: 3%;
+  min-height: 175px;
+}
+.column-wide {
+  width: 62%;
+  float: left;
+  min-height: 175px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top:3%;
+    /* width: 50%; */
+}
+
+
+/* Header & Footer
+------------------------------------*/
+header,
+footer {
+  background: darkgray;
+  /* color: #0F3057; */
+}
+header h1,
+header h2 {
+    /* color: #0F3057; */
+    margin: 0;
+}
+
+/* Header styles only */
+header {
+  /*text-align: center;*/
+}
+/* .profile-img {
+  width: 350px;
+  * border-radius: 50%; */
+  /* float: left; */
+  /* margin-right: 30px; */
+}
+
+img {
+    border-radius: 2px;
+}
+
+/* Footer styles only */
+footer {
+  text-align: center;
+}
+.contact-info a {
+  padding: 5px;
+  display: inline-block;
+}
+
+
+.work1 {
+    background: #ECF0F1;
+}
