@@ -90,19 +90,9 @@ header h2 {
     margin: 0;
 }
 
-/* Header styles only */
-header {
-  /*text-align: center;*/
-}
-/* .profile-img {
-  width: 350px;
-  * border-radius: 50%; */
-  /* float: left; */
-  /* margin-right: 30px; */
-}
-
 img {
-    border-radius: 2px;
+    max-width: 100%;
+    height: auto;
 }
 
 /* Footer styles only */
