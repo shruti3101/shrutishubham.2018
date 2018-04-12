@@ -21,8 +21,8 @@ a:hover {
 
 }
 h1{
-  font-family: 'Roboto', bold;
-  font-weight: 100;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
 }
 
 h1 {
@@ -30,7 +30,7 @@ h1 {
 }
 
 h2,h3,h4 {
-  font-family: 'Roboto', cursive;
+  font-family: 'Roboto', sans-serif;
   font-weight: 400;
 }
 
