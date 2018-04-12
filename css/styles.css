@@ -13,7 +13,7 @@ body {
 a {
     padding: 1px;
     color: black;
-    border: 1px solid gray;
+    /* border: 1px solid gray; */
 
 }
 a:hover {
