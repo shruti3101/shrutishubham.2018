@@ -16,7 +16,7 @@ a {
 
 }
 a:hover {
-  /* background-color: white; */
+  background-color: lightgray;
   color: #B32C50;
 
 }
