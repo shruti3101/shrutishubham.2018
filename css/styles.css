@@ -52,8 +52,8 @@ h4 {
 .content-wrap {
   max-width: 950px;
   margin: 0 auto;
-  padding: 10px;
-  padding-bottom: 40;
+  padding: 25px;
+  /* padding-bottom: 40; */
   overflow: hidden;
 }
 
